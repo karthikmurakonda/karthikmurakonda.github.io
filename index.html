@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+    <div Id="note-wrap">
+        <div class="note">
+            <button type="button" onclick="closenote()" class="btn-close" aria-label="Close"></button>
+            <p>This page is about developers of platform  Student Dash, for product page visit <a href="https://modernoctave.github.io/SSL-git/">here</a>.</p>
+        </div>
+    </div>
+    <header>
+        <ul>
+            <li><a href="./index.html">Student Dash</a></li>
+        </ul>
+        <div class="nav">
+
+            <ul>
+                <li><a href="./timeline.html" >Timeline</a></li>
+                <li><a href="./aboutus.html">About</a></li>
+                <li><a href="./Contactus.html">ContactUs</a></li>
+            </ul> 
+        </div>
+    </header>
+    <div class="poster">
+        <img  class="poster-image" src="./img/james-harrison-vpOeXr5wmR4-unsplash.jpg">   
+        <div class="poster-text" >
+            <p>Developers Of</p>
+            <h1 style="margin-top: 0px;">Student Dash</h1>
+        </div> 
+    </div>
+    
+    <div class="whoarewe">
+        <h1>Who are we?</h1>
+        <p class="whoarewe"> we are a group of three people working on making a web application which acts
+            as one-stop for assignment deadlines, college events etc. Such that you never again miss anything.
+            It also has blog support where you can share your blogs to others. Finally it has details and events of any college club which are interested in.
+            we are using <a href="https://www.mongodb.com/mern-stack">MERN stack</a> to develop the application.
+        </p>
+    </div>
+    <div class="whoarewe">
+        <h1>What we are building?</h1>
+        <p>
+            Find complete Features of our application <a href="https://modernoctave.github.io/SSL-git/features.html">here</a>.
+        </p>
+    </div>
+
+    <footer>Website made by M V Karthik</footer>
+    <script>
+        function closenote(){
+            document.getElementById("note-wrap").innerHTML="";
+        }
+    </script>
+</body>
+</html>
