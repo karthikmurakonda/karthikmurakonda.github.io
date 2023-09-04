@@ -27,7 +27,7 @@ hard_link_static = false
 
 
 [extra]
-    author = "Your name"
+    author = "Karthik Murakonda"
 
     # Use a square image (same height as width)
     avatar = "images/avatar.jpeg"
@@ -44,7 +44,7 @@ hard_link_static = false
             { name = "Home", url = "@/_index.md", icon = "bi-house" },
             { name = "Blog", url = "@/blog/_index.md", icon = "bi-file-earmark-text" },
             { name = "Author", url = "https://karthikmurakonda.github.io/", icon = "bi-person" },
-            { name = "About", url = "https://github.com/gersonbdev/ataraxia-zola", icon = "bi-question-octagon" }
+            # { name = "About", url = "https://github.com/gersonbdev/ataraxia-zola", icon = "bi-question-octagon" }
         ]
     
     [extra.social]

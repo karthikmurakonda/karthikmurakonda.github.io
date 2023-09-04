@@ -16,9 +16,9 @@ page_template = "page.html"
             "✉ Contact Me"
         ]
         tab_contents = [
-            "Hola, mi nombre es Gerson Benavides soy ingeniero electrónico y desarrollador de software.",
-            "Tengo experiencia en proyectos web, diseño electrónico, sistemas embebidos y software para móviles; contando con conocimiento en múltiples lenguajes de programación de alto y bajo nivel, con orientaciones hacia front-end, back-end y desarrollo de controladores de hardware.",
-            "Puedes contactarme a través de mi correo electrónico gersonbdev@gmail.com o en cualquiera de los canales mencionados en este sitio web."
+            "I am a software developer with a passion for learning and building things. I am currently pursuing my Bachelors in Computer Science and Engineering at IIT Dharmadwad. I am a self-taught programmer and I love to learn new things. I am a quick learner and I am always looking for new opportunities to learn and grow.",
+            "I am proficient in Python, C++ and Javascript. I have experience in building web applications using React and Django. I am also familiar with eBPF and Linux kernel development.",
+            "You can reach out to me anytime at karthik.murakonda14 [at] gmail.com. I am always open to new opportunities and collaborations."
         ]
     )
 }}
