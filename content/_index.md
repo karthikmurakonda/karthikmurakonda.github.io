@@ -16,7 +16,7 @@ page_template = "page.html"
             "✉ Contact Me"
         ]
         tab_contents = [
-            "I am a software developer with a passion for learning and building things. I am currently pursuing my Bachelors in Computer Science and Engineering at IIT Dharmadwad. I am a self-taught programmer and I love to learn new things. I am a quick learner and I am always looking for new opportunities to learn and grow.",
+            "I am a software developer with a passion for learning and building things. I am currently pursuing my Bachelors in Computer Science and Engineering at IIT Dharwad. I am a self-taught programmer and I love to learn new things. I am a quick learner and I am always looking for new opportunities to learn and grow.",
             "I am proficient in Python, C++ and Javascript. I have experience in building web applications using React and Django. I am also familiar with eBPF and Linux kernel development.",
             "You can reach out to me anytime at karthik.murakonda14 [at] gmail.com. I am always open to new opportunities and collaborations."
         ]

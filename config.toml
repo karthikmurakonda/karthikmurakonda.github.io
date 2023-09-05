@@ -58,11 +58,11 @@ hard_link_static = false
             # { name = "Facebook", url = "https://www.facebook.com/", icon = "bi-facebook" }
             { name = "Leetcode", url = "https://leetcode.com/karthikmurakonda/", icon = "bi-leetcode"}
         ]
-
+# <meta name="google-site-verification" content="pSWZ2j1gbgXgXHehmsD4QSb4texKa_nuu5J5DKnBDYs" />
     [extra.seo]
-        google_analytics = "G-0123456789"
+        google_analytics = "G-XK60D1S0J4"
         google_search_console = "0123457890abcdefg"
-    
+
     [extra.comments]
         disqus = "user"
 
