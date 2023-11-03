@@ -1,5 +1,5 @@
 # The base URL of the site.
-base_url = "https://karthikmurakonda.github.io"
+base_url = "https://karthikmv.tech"
 
 # To avoid problems with some variables due to multilingual support,
 # you will find repeated variables in the language section,
@@ -48,7 +48,7 @@ hard_link_static = false
         ]
     
     [extra.social]
-        author_link = "https://karthikmurakonda.github.io/"
+        author_link = "https://karthikmv.tech/"
         twitter = "@user"
         links = [
             { name = "Email", url = "mailto:200010030@iitdh.ac.in", icon = "bi-envelope-fill" },
