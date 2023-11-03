@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://karthikmurakonda.github.io/sitemap.xml
+Sitemap: https://karthikmv.tech/sitemap.xml
