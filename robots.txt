@@ -1,4 +1,2 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://karthikmv.tech/sitemap.xml
+User-Agent: *
+Sitemap: https://karthikmurakonda.github.io/sitemap.xml
