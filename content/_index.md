@@ -1,29 +1,30 @@
 +++
-title = "Karthik's Profile"
-description = "An aspiring software developer and a student of life."
-sort_by = "date"
-template = "index.html"
-page_template = "page.html"
+title = "Home"
+menu = "main"
+weight = 1
 +++
 
+# About Me
 
-{{ tab_nav_box(
-        id = "home"
-        class = "mb-5"
-        tab_titles = [
-            "👋 About Me",
-            "📝 Skills",
-            "✉ Contact Me"
-        ]
-        tab_contents = [
-            "I am a software developer with a passion for learning and building things. I am currently pursuing my Bachelors in Computer Science and Engineering at IIT Dharwad. I am a self-taught programmer and I love to learn new things. I am a quick learner and I am always looking for new opportunities to learn and grow.",
-            "I am proficient in Python, C++ and Javascript. I have experience in building web applications using React and Django. I am also familiar with eBPF and Linux kernel development.",
-            "You can reach out to me anytime at karthik.murakonda14 [at] gmail.com. I am always open to new opportunities and collaborations."
-        ]
-    )
-}}
+Hi, I'm **Karthik Murakonda**, a DevOps Engineer at O9 Solutions and a certified computer science engineer from IIT Dharwad (yes, I survived the grind!).
 
-<!-- ## Patrocinio
+I'm passionate about building **backend systems that scale** using Go, distributed systems, infrastructure engineering, and cloud-native technologies. I love tackling complex problems and sharing my learnings through blogs.
 
-[![Liberapay](https://img.shields.io/badge/Financia%20mi%20trabajo-F6C915?style=flat&logo=liberapay&logoColor=ffffff "Finance my work")](https://liberapay.com/gersonbenavides/donate)  [![PayPal](https://img.shields.io/badge/Realiza%20una%20donación-00457C?style=flat&logo=paypal "Make a donation")](https://paypal.me/gersonbdev?country.x=CO&locale.x=es_XC)
- -->
+**Get in touch:** [Email](mailto:karthik.murakonda14@gmail.com) • [LinkedIn](https://linkedin.com/in/karthik-murakonda) • [GitHub](https://github.com/karthikmurakonda)
+
+---
+
+## What I Do
+
+- Build scalable backend systems with **Go**
+- Design and implement distributed architectures
+- Work with cloud-native technologies and infrastructure
+- Write about engineering challenges and solutions
+
+## Outside of Work
+
+When I'm not coding, you'll find me taking long walks or playing badminton.
+
+---
+
+Welcome to my corner of the internet where I share thoughts on technology, engineering, and problem-solving.

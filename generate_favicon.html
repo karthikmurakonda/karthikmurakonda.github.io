@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate K Favicon</title>
+</head>
+<body>
+    <canvas id="favicon" width="32" height="32" style="border: 1px solid #ccc; transform: scale(10);"></canvas>
+    <br><br>
+    <button onclick="downloadFavicon()">Download Favicon</button>
+
+    <script>
+        const canvas = document.getElementById('favicon');
+        const ctx = canvas.getContext('2d');
+        
+        // Clear canvas with white background
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, 32, 32);
+        
+        // Draw the letter K
+        ctx.fillStyle = '#333333';
+        ctx.font = 'bold 24px Arial';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText('K', 16, 16);
+        
+        function downloadFavicon() {
+            const link = document.createElement('a');
+            link.download = 'favicon.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        }
+    </script>
+</body>
+</html>
